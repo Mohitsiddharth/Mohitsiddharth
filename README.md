@@ -115,18 +115,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitsiddharth&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitsiddharth&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohitsiddharth&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 Highlights
@@ -171,36 +159,3 @@ Production-ready Systems
 🎨 Interactive Web Experiences
 🚀 Experimental & Research Projects
 ```
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohitsiddharth/Mohitsiddharth/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</p>
-
----
-
-## 📈 My GitHub Journey
-
-> Building. Breaking. Debugging. Learning. Repeating.
-
-I believe the best way to learn technology is to **build real things**, understand why they work, break them, and build them better.
-
----
-
-<h3 align="center">⚡ Let's build something awesome.</h3>
-
-<p align="center">
-  <a href="https://github.com/Mohitsiddharth">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://mohitsiddhartht.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20my-Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
