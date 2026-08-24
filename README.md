@@ -15,19 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Information Science & Engineering student passionate about building useful technology.
-
-💻 I work across **full-stack development, AI/ML, cybersecurity, and creative web experiences**.
-
 🧠 Currently exploring **Generative AI, Machine Learning, Deep Learning, and intelligent applications**.
-
-🔐 Interested in building security-focused systems and researching emerging threats such as **QR-based phishing (Quishing)**.
 
 🚀 I enjoy turning ideas into working products — from research prototypes to full-stack applications.
 
 🎨 I also work with **videography, graphic design, editing, and creative digital experiences**.
 
-⚡ Fun fact: I enjoy debugging almost as much as building.
 
 ---
 
