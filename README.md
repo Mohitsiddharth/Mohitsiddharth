@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Mohit Siddharth
+# 👋 Hi, I'm Mohit Siddharth
 
 ### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity | 🌐 Full-Stack Developer
 
@@ -8,7 +6,7 @@
   <a href="https://github.com/Mohitsiddharth">
     <img src="https://img.shields.io/badge/GitHub-Mohitsiddharth-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://mohitsiddhartht.vercel.app/">
+  <a href="https://mohithsiddharth.framer.ai/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -117,81 +115,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 🛡️ AntiQuish
-
-**Robust Detection of QR Code–Based Phishing (Quishing) Attacks**
-
-A cybersecurity research project investigating how QR-based phishing can be detected using **QR structure, image-level features, payload analysis, and hybrid detection approaches**.
-
-**Focus:** Cybersecurity • Machine Learning • Computer Vision • Research
-
-🔗 [View Repository](https://github.com/Mohitsiddharth/AntiQuish)
-
----
-
-### 🔥 F.I.V.E
-
-**Cybersecurity Simulation & Threat Detection Framework**
-
-A security-focused project designed around suspicious-behaviour detection, decoy monitoring, and automated defensive responses.
-
-**Focus:** Cybersecurity • Threat Detection • Python • Automation
-
-🔗 [View Repository](https://github.com/Mohitsiddharth/F.I.V.E)
-
----
-
-### 🧠 Neurowordle
-
-**Clinical Diagnostic Case Simulator**
-
-A Wordle-inspired educational platform designed around neurological clinical cases, where users progressively unlock clues and attempt to identify the underlying condition.
-
-**Focus:** React • TypeScript • Firebase • Medical Education • UX
-
----
-
-### 🌊 Aqua Harvest Pro
-
-**Smart Water / Resource Management Project**
-
-A technology-focused project exploring intelligent approaches to water-resource management and sustainability.
-
-**Focus:** Software Development • IoT / Smart Systems
-
-🔗 [View Repository](https://github.com/Mohitsiddharth/Aqua-Harvest-Pro)
-
----
-
-### 🎨 MSTRIX
-
-**My Cinematic Developer Portfolio**
-
-A creative developer portfolio focused on immersive interactions and modern web technologies.
-
-**Focus:** React • TypeScript • Vite • Tailwind CSS • GSAP • Three.js
-
-🔗 [View Repository](https://github.com/Mohitsiddharth/MSTRIX)
-
-🌐 [Visit Portfolio](https://mohitsiddhartht.vercel.app/)
-
----
-
-### 🚁 Drone Acoustic AI
-
-**AI-Based Drone Acoustic Analysis**
-
-An experimental AI/ML project exploring acoustic intelligence and drone-related audio analysis.
-
-**Focus:** Python • AI/ML • Audio Processing
-
-🔗 [View Repository](https://github.com/Mohitsiddharth/drone-acoustic-ai)
-
----
 
 ## 📊 GitHub Stats
 
@@ -281,17 +204,3 @@ I believe the best way to learn technology is to **build real things**, understa
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
-
-**Mohitsiddharth/Mohitsiddharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
