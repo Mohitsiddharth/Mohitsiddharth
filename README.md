@@ -1,30 +1,13 @@
-# 👋 Hi, I'm Mohit Siddharth
 
-### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity | 🌐 Full-Stack Developer
+## About Me
 
-<p align="center">
-  <a href="https://github.com/Mohitsiddharth">
-    <img src="https://img.shields.io/badge/GitHub-Mohitsiddharth-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://mohithsiddharth.framer.ai/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+ Currently exploring **Generative AI, Machine Learning, Deep Learning, and intelligent applications**.
 
----
+ I enjoy turning ideas into working products — from research prototypes to full-stack applications.
 
-## 🧑‍💻 About Me
+ I also work with **videography, graphic design, editing, and creative digital experiences**.
 
-🧠 Currently exploring **Generative AI, Machine Learning, Deep Learning, and intelligent applications**.
-
-🚀 I enjoy turning ideas into working products — from research prototypes to full-stack applications.
-
-🎨 I also work with **videography, graphic design, editing, and creative digital experiences**.
-
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -80,7 +63,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -92,19 +74,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-
-## 🏆 Highlights
-
-🏅 **Best Student Award**
-
-🤖 **AI/ML & Full-Stack Development**
-
-🌐 **Full-Stack Web Development**
-
-🎨 **Videography • Graphic Design • Editing**
-
----
-
 ## 💡 What I Like Building
 
 ```text
